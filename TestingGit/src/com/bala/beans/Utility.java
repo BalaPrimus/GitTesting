@@ -7,5 +7,8 @@ public class Utility {
 	public Date getSystemDate() {
 		return new Date();
 	}
+	public void m1() {
+		System.out.println("m1()... 1234");
+	}
 
 }
